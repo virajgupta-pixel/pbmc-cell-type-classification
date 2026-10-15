@@ -104,8 +104,6 @@ pbmc-cell-type-classification/
 │   ├── 01_autoencoder_dimensionality_reduction.ipynb
 │   └── 02_cell_type_classification.ipynb
 ├── figures/                   # all figures shown above
-└── report/
-    └── BioE145_Final_Project_Writeup.pdf
 ```
 
 ## Getting started
