@@ -7,8 +7,6 @@ Dimensionality reduction and supervised classification of 700 peripheral blood m
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-classification-f7931e)
 ![Jupyter](https://img.shields.io/badge/notebooks-Jupyter-orange)
 
-Final project for **BioE 145/245** (Spring 2026), UC Berkeley.
-
 ## Overview
 
 Single-cell RNA-seq measures the expression of thousands of genes in each individual cell. The data is high-dimensional and noisy, which makes it hard to visualize and hard to classify directly. This project works with **700 cells × 765 genes** labeled with **10 cell types** and answers two questions:
@@ -130,7 +128,7 @@ Run the notebooks from the `notebooks/` directory, since they read from `../data
 
 - `processed_counts.csv`: rows are cells (10x barcodes), columns are 765 genes, values are normalized log-transformed counts, already cleaned and provided with the course assignment.
 - `labels.csv`: cell-type labels assigned by the original researchers (`bulk_labels`).
-- The data appears to be the 700-cell PBMC subset distributed with Scanpy as `pbmc68k_reduced`, derived from the 10x Genomics 68k PBMC dataset (Zheng et al., *Nature Communications*, 2017). Please credit the original source if you reuse it. The MIT license in this repo covers the code only, not the data.
+- The data used is the 700-cell PBMC subset distributed with Scanpy as `pbmc68k_reduced`, derived from the 10x Genomics 68k PBMC dataset (Zheng et al., *Nature Communications*, 2017). Please credit the original source if you reuse it. The MIT license in this repo covers the code only, not the data.
 
 | Cell type | Cells |
 |---|---|
@@ -151,4 +149,4 @@ Python · PyTorch · scikit-learn · pandas · NumPy · matplotlib · seaborn ·
 
 ## Author
 
-**Viraj Gupta** · [LinkedIn](https://www.linkedin.com/in/YOUR-HANDLE) · [email@example.com](mailto:email@example.com)
+**Viraj Gupta** · [LinkedIn](https://www.linkedin.com/in/viraj-roy-gutpa) · [email@example.com](mailto:virajgupta@berkeley.edu)
