@@ -109,7 +109,7 @@ pbmc-cell-type-classification/
 ## Getting started
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/pbmc-cell-type-classification.git
+git clone https://github.com/virajgupta-pixel/pbmc-cell-type-classification.git
 cd pbmc-cell-type-classification
 
 python -m venv .venv
