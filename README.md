@@ -147,4 +147,4 @@ Python · PyTorch · scikit-learn · pandas · NumPy · matplotlib · seaborn ·
 
 ## Author
 
-**Viraj Gupta** · [LinkedIn](https://www.linkedin.com/in/viraj-roy-gutpa) · [email@example.com](mailto:virajgupta@berkeley.edu)
+**Viraj Gupta** · [LinkedIn](https://www.linkedin.com/in/viraj-roy-gutpa) · [virajgupta@berkeley.edu](mailto:virajgupta@berkeley.edu)
